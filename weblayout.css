@@ -1,0 +1,49 @@
+body{
+    background-image: url(fog-4436636.jpg);
+    background-size: cover;
+}
+
+header{
+    display: block;
+    text-align: center;
+    text-shadow: 2px 3px 5px orange;
+    
+}
+nav{
+    height: 30px;
+    text-align: center;
+    background-color: rgb(238, 204, 139);
+}
+nav a{
+    background-color: aliceblue;
+    color: rgb(103, 22, 135);
+}
+
+aside{
+    width: 20%;
+    float: left ;
+}
+section{
+    
+    width: 30%;
+    float: left;
+}
+section h2{
+    text-align: center;
+}
+article{
+    
+    text-align: center;
+    width: 50%;
+    float: right;
+}
+article ul{
+    list-style-type: none;
+}
+footer{
+    display: block;
+    clear: both;
+    color: rgb(110, 64, 30);
+    text-align: center;
+    padding: 25px;
+}
